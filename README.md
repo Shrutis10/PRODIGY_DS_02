@@ -1,4 +1,4 @@
-## PRODIGY_DS_02
+## PRODIGY_Data_Science_02
 
 ## Title: Data Cleaning and Exploratory Data Analysis (EDA) on Titanic Dataset
 
